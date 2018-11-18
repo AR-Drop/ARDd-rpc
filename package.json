@@ -3,7 +3,7 @@
   "description": "ARD Client Library to connect to ARD via RPC",
   "version": "1.0.3",
   "author": {
-    "name": "Under",
+    "name": "wkibbler",
     "email": ""
   },
   "keywords": [
