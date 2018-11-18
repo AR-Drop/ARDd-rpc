@@ -1,7 +1,7 @@
 ARDd-rpc.js
 ===============
 
-A client library to connect to Ravencoin RPC in JavaScript.
+A client library to connect to ARDcoin RPC in JavaScript.
 
 ## Get Started
 
