@@ -1,5 +1,5 @@
 {
-  "name": "ARD-rpc",
+  "name": "ARDd-rpc",
   "description": "ARD Client Library to connect to ARD via RPC",
   "version": "1.0.3",
   "author": {
